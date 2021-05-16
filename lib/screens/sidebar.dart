@@ -25,11 +25,7 @@ class _NavDrawerState extends State<NavDrawer> {
                       height: size.height * 0.29,
                     ),
                   ),
-                  ListTile(
-                    leading: Icon(FontAwesomeIcons.shopify),
-                    title:Text('dd'),
-                    onTap: () => {},
-                  ),
+                 
                  
                 
                 ],
